@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Will you be my Valentine's?",
+  title: "Would you like to go on prom with me?",
   description: "",
 };
 
